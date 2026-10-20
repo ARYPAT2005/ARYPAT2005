@@ -4,7 +4,6 @@
 
 I am a passionate developer seeking SWE intern roles for summer 2027. Most recently over summer 2026, I was a **Software Engineer Intern** at **Capital One**. I worked on the GenAI Platform Services team, building an agentic architecture tool using multi-agent orchestration and a hybrid-search RAG pipeline that helps engineers research technical specifications and internal documents across the company.
 
-I'm also an undergraduate researcher at Georgia Tech, working on reinforcement learning for autonomous vehicle lane-change control.
 
 ## 💻 My Tech Stack
 
