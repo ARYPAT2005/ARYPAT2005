@@ -6,7 +6,6 @@ I am a passionate developer seeking SWE intern roles for summer 2027. I just wra
 
 ## 💻 My Tech Stack
 
-I have experience with a variety of technologies, including:
 
 **Languages:**
 
